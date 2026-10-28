@@ -1,0 +1,1 @@
+The current design loads destination photography from Unsplash URLs in the HTML. Download licensed/local images into this folder if you want the site to work without external image hosting, then update the image src URLs.
